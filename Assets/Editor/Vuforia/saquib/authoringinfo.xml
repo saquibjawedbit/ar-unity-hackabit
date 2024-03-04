@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-3.4727 -2.2674 -3.1261 1.7643 2.3256 1.9749" area="0" targetId="d9cda8d68b4f44e9bca901dbccdff72a" name="saquib" pathAuthoring="d9cda8d68b4f44e9bca901dbccdff72a_authoring.glb" pathOcclusion="d9cda8d68b4f44e9bca901dbccdff72a_occlusion.3dt" pathNavMesh="d9cda8d68b4f44e9bca901dbccdff72a_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-3.3260 -2.9450 -2.7082 2.3843 2.6570 3.0748" area="0" targetId="1212092a2c3943ddbca34b3f48259b69" name="Mayank" pathAuthoring="1212092a2c3943ddbca34b3f48259b69_authoring.glb" pathOcclusion="1212092a2c3943ddbca34b3f48259b69_occlusion.3dt" pathNavMesh="1212092a2c3943ddbca34b3f48259b69_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
